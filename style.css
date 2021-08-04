@@ -1,0 +1,237 @@
+/* b section */
+.bts1 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts2 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts3 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+
+    border-radius: 50%;
+}
+
+.bts4 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+
+    border-radius: 50%;
+}
+
+.bts5 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+
+    transform: rotate(47deg);
+    border-radius: 50%;
+}
+
+.bts6 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+    position: absolute;
+    transform: rotate(-47deg);
+    border-radius: 50%;
+}
+
+.bts7 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts8 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    transform: rotate(47deg);
+    border-radius: 50%;
+}
+
+.bts9 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    transform: rotate(-47deg);
+    border-radius: 50%;
+}
+
+.bts10 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+/* t section */
+.bts11 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts12 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts13 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+/* s section  */
+.bts14 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts15 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts16 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts17 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bts18 {
+    width: 25px;
+    height: 25px;
+    background-color: #08AEEA;
+    background-image: linear-gradient(45deg, #08AEEA 0%, #2AF598 100%);
+
+
+    position: absolute;
+    border-radius: 50%;
+}
+
+
+.background {
+    background-color: purple;
+
+
+
+}
+
+
+.btn-grad {
+    background-image: linear-gradient(to right, #003973 0%, #E5E5BE 51%, #003973 100%)
+}
+
+.btn-grad {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
